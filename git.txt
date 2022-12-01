@@ -1,0 +1,64 @@
+
+new => create repostary (instragram name)
+copy of file
+	code -> copy link
+
+gitbash -> command 
+	$ cd Desktop
+	$ git clone (paste copied link)
+
+	$ cd instragram
+	$ touch login.js =>open in vs code -> write anything JS code
+	
+	$ git add .                                                   //push all file in git cloud
+	$ git commit -m "login_register"
+	$ git push
+
+
+
+setting = collabration = add people = usename enter = send reqest
+
+gamil= open inviate = view invitation =  accpet inviation ===> code-copied => gitbash 
+
+
+$git clone paste_
+link
+$git branch
+
+$git branch login-feature
+ // login feature is a branch name
+$ git branch
+
+$git checkout login-feature
+
+$git bracnch
+
+******edit file
+
+$git add .
+$ git commit -m "login complete"
+$git push origin login-feature
+
+
+
+compare and pull => my work is done please check onece
+revieew - select name
+create pull request
+
+
+
+******************************
+           i
+
+poll request - click - request - click
+
+
+NOTE - + means added code , - means removed code
+
+commnet write - everyting okay 
+merge pull request - click 
+
+$git pull
+
+
+
