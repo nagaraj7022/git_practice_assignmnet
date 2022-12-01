@@ -1,11 +1,15 @@
 let num = 13
-c=0
-for(i=1;i<=num;i++){'
 
- c++
-}
-if(c==2){
-    console.log("prime")
+
+prime = "Yes"
+if(num===2){
+    console.log(prime)
 }else{
-    console.log("No")
+    for(let i=2; i<num; i++){
+        if(num%i === 0){
+            prime = "No"
+            break
+        }
+    }
+    console.log(prime)
 }
